@@ -1,0 +1,2 @@
+# TOPIC-2-SATELLITE-IMAGE-ANALYSIS
+Midterm Project for Topic 2
